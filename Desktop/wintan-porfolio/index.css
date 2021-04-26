@@ -228,3 +228,13 @@ body {
     color:rgb(255, 50, 50);
     background:#fff;
 }
+#onlywide {
+    display:none !important;
+}
+.box2 {
+    margin-left:0px !important;
+}
+#box div {
+    width:100%;
+}
+}
