@@ -1,4 +1,3 @@
-#  Space Shooter
 
 ![Microverse](https://img.shields.io/badge/-Microverse-6F23FF?style=for-the-badge)
 
@@ -12,24 +11,10 @@ i am open to work,to learn and to help,thanks.
 ![gif](./images/port.png)
 
 
-
-
-
-## Instructions to playing this game 🎮
-
-
-
 ## Live Demo 📺
 
 
-
-
-## Install 🛠
-
-
-
-
-## Author
+ <a href= https://raw.githack.com/wintan1418/my-portfolio/feature/index.html></a>
 
 👤 Author
 
