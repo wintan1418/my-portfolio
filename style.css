@@ -12,6 +12,7 @@
     outline: none; border:none;
     text-transform: capitalize;
     transition: all .2s linear;
+    font-size: 30px;
 }
 p {
     color: #fff;
