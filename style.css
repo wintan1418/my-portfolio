@@ -17,6 +17,13 @@
 p {
     color: #fff;
 }
+a {
+    font-size: 13px;
+    color: yellow;
+}
+img {
+    color: yellow;
+}
 
 *::selection{
     background:var(--yellow);
@@ -287,23 +294,25 @@ header .navbar ul li a:hover{
     flex-wrap: wrap;
     padding:2rem 0;
 }
-.portfolio .box-container p{
-    color:#fff;
-    font-size: 30px;
+.portfolio .box-container .box p {
+    color:rgb(245, 240, 240);
+    font-size: 10px;
 }
 
-.portfolio .box-container .box{
+
+.portfolio .box-container .box {
     height: 20rem;
     width:26rem;
     border-radius: 1rem;
     margin:2rem;
     overflow: hidden;
     cursor: pointer;
+    
 }
 
 .portfolio .box-container .box img{
-    height:100%;
-    width:100%;
+    height:70%;
+    width:70%;
     object-fit: cover;
 }
 
@@ -357,13 +366,14 @@ header .navbar ul li a:hover{
     padding-bottom: 2rem;
 }
 
-.contact .row .content .info h3{
+.contact .row .content .info img{
     display: flex;
     align-items: center;
     font-size: 2rem;
-    color:#eee;
+    color:yellow;
     padding:1rem 0;
     font-weight: normal;
+    margin-left: 100px;
 }
 
 .contact .row .content .info h3 i{
