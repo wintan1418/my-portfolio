@@ -296,7 +296,7 @@ header .navbar ul li a:hover{
 }
 .portfolio .box-container .box p {
     color:rgb(245, 240, 240);
-    font-size: 10px;
+    font-size: 13px;
 }
 
 
@@ -311,8 +311,9 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box img{
-    height:70%;
-    width:70%;
+    height:50%;
+    width:50%;
+    border-radius: 50%;
     object-fit: cover;
 }
 
